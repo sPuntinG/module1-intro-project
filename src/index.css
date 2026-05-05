@@ -1,0 +1,14 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #1e293b; /* Dark slate text */
+  background-color: #f8fafc; /* Very light slate background */
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Center the app horizontally */
+  min-height: 100vh;
+}
